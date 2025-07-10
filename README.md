@@ -21,5 +21,3 @@ On first time login, a root user 'admin' with no default password will be genera
 #### Reset system:
 In order to reset the system to its initial status without any content (user, menubook, order log etc.), delete ALL files in the RestaurantBillingSystem\res folder.
 
-#### Details:
-Further details can be found under: https://youtu.be/luqElQKeE78
